@@ -1,0 +1,29 @@
+{
+  "site": {
+    "title": "Dev Subho | Front End Developer Personal Blog",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "270",
+    "logo_height": "60",
+    "logo_text": "Dev Subho"
+  },
+
+  "settings": {
+    "pagination": 3,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2023"
+  },
+
+  "metadata": {
+    "meta_author": "Subho",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Personal software blog from dev Subho"
+  }
+}
